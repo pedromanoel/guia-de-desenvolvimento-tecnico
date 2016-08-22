@@ -27,6 +27,7 @@ faça sentir mais confortável. Abaixo encontram-se alguns exemplos:
 * [Vim](http://www.vim.org/)
   * [Folha de Dicas](http://vim.rtorr.com/lang/pt_br/)
   * [Vídeos](https://www.youtube.com/playlist?list=PLlPy1OAvxKmQ__RPeTrjpmvuMB73re4HL)
+  * [Gifs](https://twitter.com/vimgifs)
 * [Visual Studio Code](https://code.visualstudio.com/)
   * [Documentação](https://code.visualstudio.com/docs/) :uk:
 
@@ -62,6 +63,23 @@ alfabética):
 * [[eBook Grátis] Dive Into Python 3](http://www.diveintopython3.net/) :uk:
 
 ## Programe em (pelo menos) uma linguagem de programação funcional
+
+Algumas linguagens funcionais, em ordem alfabética
+
+* [Elixir](http://elixir-lang.org)
+* [Erlang](http://www.erlang.org)
+* [Haskell](https://www.haskell.org)
+* [Scala](http://www.scala-lang.org)
+
+### Recursos
+
+#### Erlang
+
+* [[Livro] Learn you some Erlang for great good](http://learnyousomeerlang.com/content)
+
+#### Haskell
+
+* [[Curso] EDX FP101x](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0)
 
 ## Saiba utilizar um sistema de controle de versão
 
